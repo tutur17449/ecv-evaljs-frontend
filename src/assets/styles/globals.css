@@ -1,0 +1,20 @@
+html, body {
+    background-color: #333A40;
+    color: white;
+}
+
+.txt-dark {
+    color: #333A40;
+}
+
+.wrapper-light {
+    margin: 2rem 0;
+    background-color: white;
+    color: #333A40;
+    border-radius: 20px;
+    padding: 2.5rem 1rem;
+}
+
+.b-icon:hover {
+    cursor: pointer;
+}
